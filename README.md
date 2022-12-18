@@ -1,2 +1,3 @@
-# minecraft-ssid-rsa-keypair-poc
-mojang tsk tsk tsk
+## THIS IS JUST A POC
+- mojang doing stuff they shouldnt 
+- 
